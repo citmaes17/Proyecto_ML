@@ -69,8 +69,7 @@ Proyecto_ML/
 │   ├── superstore_master.csv         # Base limpia + features (previa al split)
 │   ├── train_master.csv              # Split de entrenamiento
 │   ├── test_master.csv               # Split de test final (no tocado hasta el final)
-│   └── README.md                     # Opcional: descripción de la fuente y campos
-│
+│ │
 ├── notebooks/
 │   ├── 0_Split_Master_Superstore.ipynb   # Split purista train/test
 │   ├── 1_EDA_Superstore.ipynb            # EDA + creación de variables
@@ -89,8 +88,7 @@ Proyecto_ML/
 │   └── app_ABC_Retain_Suite_ChurnRadar.py   # App de Streamlit (módulo 1 de la suite)
 │
 ├── reports/
-│   ├── figures/                      # Gráficas EDA, CDA, clustering, modelo
-│   └── Proyecto_ML_Presentacion.pptx # Presentación técnica del proyecto
+││   └── Proyecto_ML_Presentacion.pptx # Presentación técnica del proyecto
 │
 └── README.md                         # Este documento
 ```
