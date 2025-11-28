@@ -85,7 +85,7 @@ Proyecto_ML/
 │   └── churn_pipeline.pkl            # Pipeline de preprocesado + modelo entrenado
 │
 ├── app/
-│   └── app_ABC_Retain_Suite_ChurnRadar.py   # App de Streamlit (módulo 1 de la suite)
+│   └── ABC_Retain_Suite.py   # App de Streamlit (módulo 1 de la suite)
 │
 ├── reports/
 ││   └── Proyecto_ML_Presentacion.pptx # Presentación técnica del proyecto
