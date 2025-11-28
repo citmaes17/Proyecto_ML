@@ -90,7 +90,8 @@ Proyecto_ML/
 │   └── ABC_Retain_Suite.py   # App de Streamlit (módulo 1 de la suite)
 │
 ├── reports/
-││   └── Proyecto_ML_Presentacion.pptx # Presentación técnica del proyecto
+│   └── ABC_Retai_Suite_Tecnico.pdf # Presentación técnica del proyecto
+│   └── ABC_Retai_Suite.pdf         # Presentación del negocio
 │
 └── README.md                         # Este documento
 ```
