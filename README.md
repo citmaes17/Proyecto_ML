@@ -66,6 +66,8 @@ El objetivo principal es doble:
 Proyecto_ML/
 ├── data/
 │   ├── superstore_data.csv           # Dataset original (crudo)
+│   ├── superstore_modelado.csv       # Dataset modelado
+│   ├── superstore_para_retencion     # Data set para retencion
 │   ├── superstore_master.csv         # Base limpia + features (previa al split)
 │   ├── train_master.csv              # Split de entrenamiento
 │   ├── test_master.csv               # Split de test final (no tocado hasta el final)
