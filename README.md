@@ -499,13 +499,13 @@ streamlit run app/app_ABC_Retain_Suite_ChurnRadar.py
 
 ## 12. Contacto / créditos
 
-Este proyecto forma parte de un **proceso formativo y de portfolio en Data Science y Machine Learning aplicado a marketing**, y se integra como el primer módulo de:
+Este proyecto forma parte de un **proceso formativo y de portfolio en Data Science y Machine Learning **, y se integra como el primer módulo de:
 
 > **ABC Retain Suite** – herramientas para cuidar el valor de tus clientes.
 
 ```markdown
-Autor: [Tu nombre aquí]  
+Autor: Cindy Tatiana Marin Espinosa
 Rol: Data Scientist / Analista de Marketing Data-Driven
 ```
 
-Puedes adaptar este README para GitHub, para portfolio profesional, para entregas académicas o para presentar el proyecto a equipos de negocio y Data Science.
+
